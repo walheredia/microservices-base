@@ -1,0 +1,23 @@
+{
+  "name": "microservices-base",
+  "version": "1.0.0",
+  "description": "This is a template for creating new microservices in nodejs & typescript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/walheredia/microservices-base.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/walheredia/microservices-base/issues"
+  },
+  "homepage": "https://github.com/walheredia/microservices-base#readme",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
